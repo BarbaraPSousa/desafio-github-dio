@@ -1,0 +1,20 @@
+
+**Comandos Git**
+git init = iniciar um repositorio
+git add origin + url = add a pasta
+git  commit -m "sempre coloca explicação" = salvar no banco de dados.
+git status = mostra o estado do arquivo
+git diff = mostra a diferença no repositorio de trabalho
+git diff  --cached =Mostra as diferenças sem abri o projeto
+git diff  --staged =Mostra as diferenças
+git log = lista todos so commites que foi realizado no projeto"sempre mostra primeiro a ultima versão".
+git log --oneline = mostra as modificações em poucas linhas
+git checkout " numero do char" = mostar a versão especifica do char.
+git checkout config."nome do arquivo" = remove alteração indesejada e caso apagar o arquivo ele volta.
+git reset --hard = tras todos os arquivos que foi modificado ou excluido como se nao houvese modificação.
+git clean -f = força a remoção de arquivos que não foi rastriado*(fora da aria de preparação)
+git  commit --amend 
+:wq salva alteração/ push
+git checkout master = volta para branches principal
+
+♥ ♥ ♥ ♥ ♥ ♥♥ ♥ ♥♥ ♥ ♥♥ ♥ ♥♥ ♥ ♥
